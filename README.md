@@ -1,64 +1,68 @@
-## 🚀 About Me
+# Lance Dwight B. Aguilar
 
-I am Lance Dwight B. Aguilar, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+## About Me
 
----
-
-## 🎓 Education
-
-* **Bachelor of Science in Information Technology**
-  * New Era University
-  * 2021 - Present
+I am a Bachelor of Science in Information Technology student at New Era University with interests in software development, database management, and emerging technologies. I enjoy solving technical challenges, building efficient solutions, and continuously expanding my knowledge in the field of information technology.
 
 ---
 
-## 📜 Certifications
+## Education
 
-* 🗄️ **[NoSQL and DBaaS 101](https://catalog-education.oracle.com/)**
-* 🎓 **[Certificate for Gemini University Student](https://edu.google.accredible.com/)**
+**Bachelor of Science in Information Technology**  
+New Era University  
+2021 – Present
 
 ---
 
-## 🛠️ Skill Sets
+## Certifications
 
-### 💻 Programming
+- NoSQL and DBaaS 101
+- Gemini University Student Certificate
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### 🗄️ Databases
+### Databases
+
 <p align="left">
-  <img src="https://img.shields.io/badge/IBM%20Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
+  <img src="https://img.shields.io/badge/IBM%20Db2-333333?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
 </p>
 
-### 🔧 Tools
+### Tools & Technologies
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Lucidchart-FF6C22?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Jaspersoft-000000?style=for-the-badge&logo=tibco&logoColor=white" alt="Jaspersoft Studio" />
+  <img src="https://img.shields.io/badge/Lucidchart-333333?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-333333?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
+  <img src="https://img.shields.io/badge/Jaspersoft%20Studio-333333?style=for-the-badge&logo=tibco&logoColor=white" alt="Jaspersoft Studio" />
 </p>
 
 ---
 
-## 🎯 Connect With Me
+## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lance-dwight-a4543a40b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/lance-dwight-a4543a40b/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lancedwight0314@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 Goals
+## Professional Goals
 
-* Enhance my software development skills
-* Build impactful database-driven applications
-* Create a learning cloud and emerging technologies
-
----
+- Strengthen software development and programming expertise
+- Develop scalable database-driven applications
+- Expand knowledge in cloud computing and emerging technologies
+- Contribute to meaningful technology projects and solutions
